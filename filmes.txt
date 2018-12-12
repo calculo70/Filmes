@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="video" channelId="-1", Arnold A Adocao Parte 1
+#EXTINF:0, Arnold A Adocao Parte 1
 http://media-br-am.crackle.com/1/g/d6/0yvlf_480p.mp4
 #EXTINF:0 type="video" channelId="-1", Arnold A Adocao Parte 2
 http://media-br-am.crackle.com/1/f/d6/yyvlf_480p.mp4
